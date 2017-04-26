@@ -12,6 +12,19 @@ PALiveLib:SDK库目录
 PALiveSDKDemo:demo源码
 
 # 更新记录
+## PAZNLiveSdk_iOS_V1.0.5(2017-04-26 15:00)
+
+### 1. 完整包地址(demo、lib、doc) 
+地址链接:[http://okxmfgy32.bkt.clouddn.com/PALiveSDKFull_V1.0.5.zip](http://okxmfgy32.bkt.clouddn.com/PALiveSDKFull_V1.0.5.zip)
+
+### 2. 更新包地址(在SDK_V1.0.4基础上)
+在SDK_V1.0.4基础上更新的包:PaCoreSdk.framework、PaLiveSdk.framework、PaliveSdkBundle.bundle。   
+地址链接:[http://okxmfgy32.bkt.clouddn.com/PALiveSDKUpdate_V1.0.5.zip](http://okxmfgy32.bkt.clouddn.com/PALiveSDKUpdate_V1.0.5.zip)
+
+### 3. 解决
+1. 增加一些事件通知接口，便于app埋点
+2. 解决同时设置后台地址和进入直播间，导致直播加没反应的问题
+3. 解决打开麦克风失败，没有声音的问题
 
 ## PAZNLiveSdk_iOS_V1.0.4(2017-04-21 18:20)
 
