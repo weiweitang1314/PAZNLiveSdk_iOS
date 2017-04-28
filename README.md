@@ -14,12 +14,13 @@ PALiveSDKDemo:demo源码
 # 更新记录
 ## PAZNLiveSdk_iOS_V1.0.6(2017-04-28 18:00)
 
-### 1. 完整包地址(demo、lib、doc) 
-***由于文件限制 完整包地址请下载1.0.5完整包后,使用1.0.6补丁包替换相关文件***
+### 1. 完整包地址(demo、lib、doc)   
+
+***<font color=#ff00ff >由于文件限制 完整包地址请下载1.0.5完整包后,使用1.0.6补丁包替换相关文件</font>***
 
 地址链接:[http://okxmfgy32.bkt.clouddn.com/PALiveSDKFull_V1.0.5.zip](http://okxmfgy32.bkt.clouddn.com/PALiveSDKFull_V1.0.5.zip)
 
-### 2. 更新包地址(在SDK_V1.0.4基础上)
+### 2. 更新包地址(在SDK_V1.0.5基础上)
 在SDK_V1.0.5基础上更新的库:PaLiveSdk.framework   
 地址链接:[http://okxmfgy32.bkt.clouddn.com/PALiveSDKUpdate_V1.0.6.zip](http://okxmfgy32.bkt.clouddn.com/PALiveSDKUpdate_V1.0.6.zip)
 
