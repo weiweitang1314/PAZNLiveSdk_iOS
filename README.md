@@ -16,7 +16,7 @@ PALiveSDKDemo:demo源码
 
 ### 1. 完整包地址(demo、lib、doc)   
 
-***<font color=#ff0000 >由于文件限制 完整包地址请下载1.0.5完整包后,使用1.0.6补丁包替换相关文件</font>***
+<font color=#ff0000 >由于文件限制 完整包地址请下载1.0.5完整包后,使用1.0.6补丁包替换相关文件</font>
 
 地址链接:[http://okxmfgy32.bkt.clouddn.com/PALiveSDKFull_V1.0.5.zip](http://okxmfgy32.bkt.clouddn.com/PALiveSDKFull_V1.0.5.zip)
 
