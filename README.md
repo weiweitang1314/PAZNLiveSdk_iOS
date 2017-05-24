@@ -12,6 +12,18 @@ PALiveLib:SDK库目录
 PALiveSDKDemo:demo源码
 
 # 更新记录
+## PAZNLiveSdk_iOS_V1.0.8(2017-05-24 16:30)
+
+### 1. 完整包地址(demo、lib、doc) 
+地址链接:[http://okxmfgy32.bkt.clouddn.com/PALiveSDKFull_V1.0.8.zip](http://okxmfgy32.bkt.clouddn.com/PALiveSDKFull_V1.0.8.zip)
+
+### 2. 更新
+1. 增加回放功能
+2. 增加主播为PC双路视频的显示
+3. 增加通过获取View方式自定义底部栏按钮
+4. 增加动态显示消息列表及底部栏接口
+5. 进入直播间增加是否sdk内部模态toast提示选项
+
 ## PAZNLiveSdk_iOS_V1.0.7(2017-05-03 11:30)
 
 ### 1. 完整包地址(demo、lib、doc)   
