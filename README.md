@@ -14,6 +14,8 @@ PALiveSDKDemo:demo源码
 # 更新记录
 ## PAZNLiveSdk_iOS_V1.0.8(2017-05-24 16:30)
 
+***腾讯sdk更新（此次新增文件较多，建议把原来SDK目录删除，重新导入SDK目录） 需要添加系统AssetsLibrary.framework***
+
 ### 1. 完整包地址(demo、lib、doc) 
 地址链接:[http://okxmfgy32.bkt.clouddn.com/PALiveSDKFull_V1.0.8.zip](http://okxmfgy32.bkt.clouddn.com/PALiveSDKFull_V1.0.8.zip)
 
