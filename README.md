@@ -20,7 +20,7 @@ PALiveSDKDemo:demo源码
 ***<font color=#ff0000>*由于文件限制 完整包地址请下载1.0.8完整包后,使用1.0.9补丁包替换相关文件</font>***
 
 ### 2. 更新包地址(在SDK_V1.0.8基础上)
-在SDK_V1.0.8基础上更新的库:PaLiveSdk.framework
+在SDK_V1.0.8基础上更新的库:PaLiveSdk.framework  
 地址链接:[http://okxmfgy32.bkt.clouddn.com/PALiveSDKUpdate_V1.0.9.zip](http://okxmfgy32.bkt.clouddn.com/PALiveSDKUpdate_V1.0.9.zip)
 
 ### 3. 解决
