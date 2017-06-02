@@ -12,6 +12,21 @@ PALiveLib:SDK库目录
 PALiveSDKDemo:demo源码
 
 # 更新记录
+
+## PAZNLiveSdk_iOS_V1.0.9(2017-05-24 15:50)
+
+### 1. 完整包地址(demo、lib、doc) 
+
+***<font color=#ff0000>*由于文件限制 完整包地址请下载1.0.8完整包后,使用1.0.9补丁包替换相关文件</font>***
+
+### 2. 更新包地址(在SDK_V1.0.8基础上)
+在SDK_V1.0.8基础上更新的库:PaLiveSdk.framework
+地址链接:[http://okxmfgy32.bkt.clouddn.com/PALiveSDKUpdate_V1.0.9.zip](http://okxmfgy32.bkt.clouddn.com/PALiveSDKUpdate_V1.0.9.zip)
+
+### 3. 解决
+1. 增加IM登录错误码为8050的重试
+2. 修改观众端底部栏自定义按钮顺序
+
 ## PAZNLiveSdk_iOS_V1.0.8(2017-05-24 16:30)
 
 ***腾讯sdk更新（此次新增文件较多，建议把原来SDK目录删除，重新导入SDK目录） 需要添加系统AssetsLibrary.framework***
