@@ -33,8 +33,8 @@ PALiveSDKDemo:demo源码
 地址链接:[http://okxmfgy32.bkt.clouddn.com/PALiveSDKUpdate_V1.0.9.zip](http://okxmfgy32.bkt.clouddn.com/PALiveSDKUpdate_V1.0.9.zip)
 
 ### 3.更新
-1. 增加自定义消息功能
-2. demo增加通过SDK自定义消息实现红包功能
+ 1. 增加IM登录错误码为8050的重试
+ 2. 修改观众端底部栏自定义按钮顺序
 
 ## PAZNLiveSdk_iOS_V1.0.8(2017-05-24 16:30)
 
