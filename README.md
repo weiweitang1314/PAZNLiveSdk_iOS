@@ -13,6 +13,15 @@ PALiveSDKDemo:demo源码
 
 # 更新记录
 
+## PAZNLiveSdk_iOS_V1.1.1(2017-08-02 15:50)
+
+### 1. 完整包地址(demo、lib、doc) 
+地址链接:[http://okxmfgy32.bkt.clouddn.com/PALiveSDKFull_V1.1.1.zip](http://okxmfgy32.bkt.clouddn.com/PALiveSDKFull_V1.1.1.zip)
+
+### 2. 解决
+1. 增加IM登录错误码为8050的重试
+2. 修改观众端底部栏自定义按钮顺序
+
 ## PAZNLiveSdk_iOS_V1.0.9(2017-05-24 15:50)
 
 ### 1. 完整包地址(demo、lib、doc) 
@@ -23,9 +32,9 @@ PALiveSDKDemo:demo源码
 在SDK_V1.0.8基础上更新的库:PaLiveSdk.framework  
 地址链接:[http://okxmfgy32.bkt.clouddn.com/PALiveSDKUpdate_V1.0.9.zip](http://okxmfgy32.bkt.clouddn.com/PALiveSDKUpdate_V1.0.9.zip)
 
-### 3. 解决
-1. 增加IM登录错误码为8050的重试
-2. 修改观众端底部栏自定义按钮顺序
+### 3.更新
+1. 增加自定义消息功能
+2. demo增加通过SDK自定义消息实现红包功能
 
 ## PAZNLiveSdk_iOS_V1.0.8(2017-05-24 16:30)
 
