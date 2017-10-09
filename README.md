@@ -19,8 +19,9 @@ PALiveSDKDemo:demo源码
 地址链接:[http://okxmfgy32.bkt.clouddn.com/PALiveSDKFull_TX_V1.1.1.zip](http://okxmfgy32.bkt.clouddn.com/PALiveSDKFull_TX_V1.1.1.zip)
 
 ### 2. 更新
-1. 增加自定义消息功能
-2. demo增加通过SDK自定义消息实现红包功能
+1. 更新了IM和AV相关的SDK，强下载后替换。
+2. 增加自定义消息功能
+3. demo增加通过SDK自定义消息实现红包功能
 
 ## PAZNLiveSdk_iOS_V1.0.9(2017-05-24 15:50)
 
