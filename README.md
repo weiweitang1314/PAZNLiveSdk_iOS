@@ -24,7 +24,7 @@ PALiveSDKDemo:demo源码
 地址链接:[http://okxmfgy32.bkt.clouddn.com/PALiveSDKUpdate_V1.0.9.zip](http://okxmfgy32.bkt.clouddn.com/PALiveSDKUpdate_V1.0.9.zip)
 
 ### 3.更新
- 1. 适配iOS 11上UIToolBar，解决自动以表情点击无效的问题
+ 1. 适配iOS 11上UIToolBar，解决表情按钮点击无效的问题
  2. 增加水印功能
  
 ## PAZNLiveSdk_iOS_V1.1.1(2017-09-18 15:50)
