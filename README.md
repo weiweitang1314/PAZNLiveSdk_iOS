@@ -13,10 +13,20 @@ PALiveSDKDemo:demo源码
 
 # 更新记录
 
-## PAZNLiveSdk_iOS_V1.1.1(2017-09-25 15:50)
+## PAZNLiveSdk_iOS_V1.1.2(2017-09-21 11:50)
 
 ### 1. 完整包地址(demo、lib、doc) 
-地址链接:[http://okxmfgy32.bkt.clouddn.com/PALiveSDKFull_TX_V1.1.1.zip](http://okxmfgy32.bkt.clouddn.com/PALiveSDKFull_TX_V1.1.1.zip)
+
+***<font color=#ff0000>*由于文件限制 完整包地址请下载1.1.1完整包后,使用1.1.2补丁包替换相关文件</font>***
+
+### 2. 更新包地址(在SDK_V1.1.1基础上)
+在SDK_V1.1.1基础上更新的库:PaLiveSdk.framework  
+地址链接:[http://okxmfgy32.bkt.clouddn.com/PALiveSDKUpdate_V1.0.9.zip](http://okxmfgy32.bkt.clouddn.com/PALiveSDKUpdate_V1.0.9.zip)
+
+## PAZNLiveSdk_iOS_V1.1.1(2017-09-18 15:50)
+
+### 1. 完整包地址(demo、lib、doc) 
+地址链接:[http://okxmfgy32.bkt.clouddn.com/PALiveSDKUpdate_TX_V1.1.2.zip](http://okxmfgy32.bkt.clouddn.com/PALiveSDKUpdate_TX_V1.1.2.zip)
 
 ### 2. 更新
 1. 更新了IM和AV相关的SDK，解决部分机型下主播二次开播崩溃的问题，请下载后替换。
