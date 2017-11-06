@@ -13,6 +13,19 @@ PALiveSDKDemo:demo源码
 
 # 更新记录
 
+## PAZNLiveSdk_iOS_V1.1.3(2017-11-06 11:50)
+
+### 1. 完整包地址(demo、lib、doc) 
+
+***<font color=#ff0000>*由于文件限制 完整包地址请下载1.1.1完整包后,使用1.1.2和1.1.3补丁包替换相关文件</font>***
+
+### 2. 更新包地址(在SDK_V1.1.2基础上)
+在SDK_V1.1.2基础上更新的库:PaliveSdkBundle.bundle 
+地址链接:[http://okxmfgy32.bkt.clouddn.com/PALiveSDKUpdate_TX_V1.1.3.zip](http://okxmfgy32.bkt.clouddn.com/PALiveSDKUpdate_TX_V1.1.3.zip)
+
+### 3.更新
+ 1. 解决资源文件不对应，导致表情崩溃的问题
+ 
 ## PAZNLiveSdk_iOS_V1.1.2(2017-09-21 11:50)
 
 ### 1. 完整包地址(demo、lib、doc) 
@@ -21,7 +34,7 @@ PALiveSDKDemo:demo源码
 
 ### 2. 更新包地址(在SDK_V1.1.1基础上)
 在SDK_V1.1.1基础上更新的库:PaLiveSdk.framework  
-地址链接:[http://okxmfgy32.bkt.clouddn.com/PALiveSDKUpdate_V1.0.9.zip](http://okxmfgy32.bkt.clouddn.com/PALiveSDKUpdate_V1.0.9.zip)
+地址链接:[http://okxmfgy32.bkt.clouddn.com/PALiveSDKUpdate_TX_V1.1.2.zip](http://okxmfgy32.bkt.clouddn.com/PALiveSDKUpdate_TX_V1.1.2.zip)
 
 ### 3.更新
  1. 适配iOS 11上UIToolBar，解决表情按钮点击无效的问题
@@ -30,7 +43,7 @@ PALiveSDKDemo:demo源码
 ## PAZNLiveSdk_iOS_V1.1.1(2017-09-18 15:50)
 
 ### 1. 完整包地址(demo、lib、doc) 
-地址链接:[http://okxmfgy32.bkt.clouddn.com/PALiveSDKUpdate_TX_V1.1.2.zip](http://okxmfgy32.bkt.clouddn.com/PALiveSDKUpdate_TX_V1.1.2.zip)
+地址链接:[http://okxmfgy32.bkt.clouddn.com/PALiveSDKFull_V1.1.0.zip](http://okxmfgy32.bkt.clouddn.com/PALiveSDKFull_V1.1.0.zip)
 
 ### 2. 更新
 1. 更新了IM和AV相关的SDK，解决部分机型下主播二次开播崩溃的问题，请下载后替换。
