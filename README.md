@@ -13,6 +13,15 @@ PALiveSDKDemo:demo源码
 
 # 更新记录
 
+## PAZNLiveSdk_iOS_V1.1.4(2018-01-22 20:20)
+
+### 1. 完整包地址(demo、lib、doc) 
+地址链接:[http://okxmfgy32.bkt.clouddn.com/PALiveSDKFull_TX_V1.1.4.zip](http://okxmfgy32.bkt.clouddn.com/PALiveSDKFull_TX_V1.1.4.zip)
+
+### 2. 更新
+1. 直播间适配iPhone X。
+2. 解决退出直播会崩溃的问题
+
 ## PAZNLiveSdk_iOS_V1.1.3(2017-11-06 11:50)
 
 ### 1. 完整包地址(demo、lib、doc) 
