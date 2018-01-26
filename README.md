@@ -21,6 +21,7 @@ PALiveSDKDemo:demo源码
 ### 2. 更新
 1. 直播间适配iPhone X。
 2. 解决退出直播会崩溃的问题
+3. 此版本需要导入OpenAL.framework
 
 ## PAZNLiveSdk_iOS_V1.1.3(2017-11-06 11:50)
 
